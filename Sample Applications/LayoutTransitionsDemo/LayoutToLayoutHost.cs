@@ -11,7 +11,7 @@ using System.Windows.Threading;
 
 namespace LayoutTransitionsDemo
 {
-    // Juste une petite commentaire
+    // Juste une petite commentaires
     public class LayoutToLayoutHost : Border
     {
         public static readonly DependencyProperty TargetProperty =
