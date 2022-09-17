@@ -6,7 +6,7 @@
           Margin="10,10,10,10">Page 2</TextBlock>
     <TextBlock  HorizontalAlignment="Left"
                 Margin="10,10,10,10">
-      <Hyperlink  NavigateUri="Page1.xaml">Go To The Start Page</Hyperlink>
+         <Hyperlink  NavigateUri="Page1.xaml">Go To The Start Page</Hyperlink>
     </TextBlock>
   </StackPanel>
 </Page>

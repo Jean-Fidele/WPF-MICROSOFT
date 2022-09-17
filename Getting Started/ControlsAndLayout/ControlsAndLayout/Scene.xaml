@@ -7,7 +7,6 @@
 
             <XmlDataProvider x:Key="SamplesList"  XPath="/Samples" Source="samples.xml" />
 
-
             <Style TargetType="{x:Type TextBlock}">
                 <Setter Property="FontFamily" Value="Calibri" />
                 <Setter Property="FontSize" Value="10pt" />
